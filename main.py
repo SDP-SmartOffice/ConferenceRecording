@@ -12,7 +12,7 @@ with sr.Microphone() as source:
 <<<<<<< HEAD
     print("123123123")
 
-print ("hello")
+x=1+2
 =======
     print("123")
 >>>>>>> master
