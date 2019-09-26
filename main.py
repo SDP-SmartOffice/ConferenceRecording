@@ -18,3 +18,4 @@ x=1+2
 >>>>>>> master
 
 print("test")
+print("test2")
