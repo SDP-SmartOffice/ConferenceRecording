@@ -12,3 +12,4 @@ with sr.Microphone() as source:
     print("123123123")
 
 print ("hello")
+print ("sdp")
