@@ -16,3 +16,5 @@ x=1+2
 =======
     print("123")
 >>>>>>> master
+print("test")
+print("test2")
