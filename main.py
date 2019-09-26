@@ -10,3 +10,5 @@ with sr.Microphone() as source:
 
     print(r2.recognize_google(audio))
     print("123123123")
+
+x=1+2
