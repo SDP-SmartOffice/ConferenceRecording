@@ -9,4 +9,10 @@ with sr.Microphone() as source:
     audio = r1.listen(source)
 
     print(r2.recognize_google(audio))
+<<<<<<< HEAD
+    print("123123123")
+
+x=1+2
+=======
     print("123")
+>>>>>>> master
